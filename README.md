@@ -3,5 +3,5 @@
 
 ### Tecnologías Utilizadas
 - React
-- TSX
+- TypeScript
 - TailwindCSS
